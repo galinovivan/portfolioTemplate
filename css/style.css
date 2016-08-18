@@ -507,7 +507,7 @@ footer .footer-below {
     transform: rotate(90deg);
 }
 header.home{
-	background-image:url("../img/TemplateImg/JobInterview.jpg");
+	background-image:url("../img/TemplateImg/hero.jpg");
 	background-size: cover;
 	background-position: 50% 50%;
 	background-attachment: fixed !important;
