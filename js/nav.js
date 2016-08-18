@@ -1,7 +1,7 @@
 $(document).ready(function() {
-   var nav = $('.navbar-collapse');
+   var nav = $('#headerNav');
     $(window).scroll(function() {
-        if (nav.offset().top < 500) {
+        if (nav.offset().top < 100){
             nav.removeClass('black_nav');
         } else {
             nav.addClass('black_nav');
